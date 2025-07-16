@@ -369,7 +369,7 @@ function ShareIt() {
       puzz += "\n";
   });
   
-  let linkURL = "https://shiva-sutra.glitch.me";
+  let linkURL = "https://pd2.github.io/shiva-sutra/";
   
   copyText = `I solved #ShivaSutra sliding game in ${num_moves} moves\n${puzz} at ${linkURL}`;
   
