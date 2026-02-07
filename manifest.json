@@ -4,7 +4,7 @@
   "start_url": "https://pd2.github.io/shiva-sutra/",
   "icons": [
     {
-      "src": "https://cdn.glitch.global/e1967c5a-fcd6-4474-8afe-2e299ddc3530/damaru_1.png",
+      "src": "damaru_1.png",
       "sizes": "256x256",
       "type": "image/png"
     }
