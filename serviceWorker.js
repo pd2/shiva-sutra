@@ -1,5 +1,5 @@
 const staticDev = "shiva_sutra_game"
-const service_worker_version = "v1.4"
+const service_worker_version = "v1.41"
 const assets = [
   "/",
   "index.html",
